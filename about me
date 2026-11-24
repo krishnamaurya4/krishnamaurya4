@@ -1,9 +1,181 @@
-👋 Hi, I'm Krishna Maurya!
-🚀 Tech Enthusiast | AI & Automation Expert
+# Hi, I'm Krishna Maurya 
 
-👀 About Me
-AI-powered automation, workflow optimization, and leveraging technology to solve real-world problems. I specialize in N8N, Make.com, Chatbot builder.ai, voiceflow, Chatbase, Retell ai, Claude,  OpenAI (ChatGPT), and workflow automation, helping businesses streamline their processes.
-💡 What I Do
-✔️ Build AI-driven chatbots & AI Voice Agent 
-✔️ Process & operation Automation using N8N & make.com 
-✔️ API integration , Webhooks, HTTP 
+### AI Automation & Voice AI Engineer 
+
+I build **AI-powered automation systems, voice agents, chatbots, and AI applications** that connect AI with real-world business processes.
+
+I work end to end, from process discovery and workflow design to AI agent development, API integrations, testing, deployment, and production support.
+
+Before moving into AI, I spent 10 years working in **clinical research and pharma**, including management and CRO experience. This gives me a strong understanding of regulated, process-heavy business environments, especially healthcare.
+
+Location: Ahmedabad, India · 
+
+Current : AI Automation & Voice AI Engineer at Agentical AI
+
+## 🚀 What I Build
+
+- 🤖 AI Voice Agents for inbound and outbound calls
+- 🔄 Business Process Automation
+- 💬 AI Chatbots and Conversational AI
+- 🔌 API, CRM and SaaS Integrations
+- 📅 AI Appointment Scheduling & Receptionist Systems
+- 🏥 Healthcare & Clinical Workflow Automation
+- 📊 AI Lead Qualification & Sales Automation
+- 🧠 LLM-powered Business Workflows
+- 🛠️ AI Apps & Internal Tools
+
+---
+
+## ⭐ Featured Work
+
+### 🏥 Healthcare Voice Receptionist
+
+AI receptionist for healthcare clinics handling appointment-related conversations and connecting with clinical systems.
+
+**Capabilities**
+- Appointment booking
+- Rescheduling and cancellation
+- Patient information capture
+- Live calendar availability
+- EMR integrations
+- Multi-clinic workflows
+- Human escalation
+
+**Stack:** Retell AI · n8n · OpenAI · OpenDental · Eaglesoft
+
+---
+
+### 🌎 Multilingual AI Contact Center
+
+Multilingual AI voice system for customer support, lead qualification and sales transfer.
+
+**Capabilities**
+- Multilingual conversations
+- Lead qualification
+- Customer support
+- WhatsApp integration
+- Sales transfer
+- Automated workflow processing
+
+**Stack:** Sarvam.ai · n8n · WhatsApp
+
+---
+
+### 📞 Outbound AI Sales Agent
+
+AI-powered outbound calling system for B2B lead engagement and appointment generation.
+
+**Capabilities**
+- Automated outbound calling
+- Lead qualification
+- Objection handling
+- Retry logic
+- Lead routing
+- Calendar booking
+
+**Stack:** Retell AI · Make.com
+
+---
+
+### ⚙️ n8n AI Automation Systems
+
+AI-powered workflows for business operations, recruitment, sales and lead management.
+
+**Examples**
+- AI hiring pipeline
+- WhatsApp lead nurturing
+- Sales meeting automation
+- Lead processing
+- Email automation
+- CRM workflows
+
+**Stack:** n8n · OpenAI · Chatwoot · REST APIs · Webhooks
+
+---
+
+## 🧰 Tech Stack
+
+**AI & Voice**  
+ Vapi · Retell AI · Bolna.ai · Sarvam AI · ElevenLabs
+
+**Automation**  
+n8n · Make.com · Zapier · REST APIs · Webhooks
+
+**Conversational AI**  
+Voiceflow · Chatwoot · LLM Workflows
+
+**Backend & Data**  
+ Supabase · Pinecone 
+
+**Healthcare IT**  
+OpenDental · Eaglesoft
+
+---
+
+## 🔧 How I Build AI Systems
+
+**01. Discover**  
+Understand the business process, existing tools, bottlenecks and desired outcome.
+
+**02. Design**  
+Map the workflow, AI agent behaviour, integrations, APIs, edge cases and escalation paths.
+
+**03. Build**  
+Develop the automation, voice agent, chatbot or AI application and connect the required systems.
+
+**04. Test**  
+Test real-world scenarios, failures, edge cases, API errors, scheduling conflicts and fallback behaviour.
+
+**05. Deploy**  
+Deploy the system, configure production integrations and provide documentation and handoff.
+
+**06. Improve**  
+Monitor production behaviour and continuously improve prompts, workflows and automation logic.
+
+---
+
+## 🏥 Industries
+
+Healthcare · Pharma · Real Estate · Solar · B2B Sales · Recruitment · Education · Fintech · AI Agencies
+
+---
+
+## 🏅 Certifications
+
+- n8n Certified Automation Engineer - L1 & L2
+- Make.com Certified Specialist
+- Workato Foundations L1
+- Prompt Engineering
+- Fiverr 5.0 ⭐
+
+---
+
+## 🤝 What I Can Help With
+
+**For businesses**
+
+Automate repetitive processes, build AI receptionists, qualify leads, connect systems and reduce manual operations.
+
+**For AI agencies**
+
+I can work as a technical delivery partner for voice AI, n8n, Make.com, API integrations and production automation projects.
+
+**For founders**
+
+I can help turn an AI workflow or product idea into a working MVP and production-ready system.
+
+---
+
+## 📂 What You'll Find Here
+
+This GitHub contains examples of my work across:
+
+- AI Voice Agents
+- n8n Automation
+- Make.com Automation
+- API Integrations
+- AI Applications
+- Business Process Automation
+- Healthcare Automation
+
+I'm continuously adding new projects, technical documentation and case studies.
